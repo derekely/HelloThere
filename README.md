@@ -2,8 +2,8 @@
 Here is a simple file to demonstrate the basic understanding of integrating Python, Visual Studio Code and Github.
 
 
-
-[Software Demo Video](http://youtube.link.goes.here)
+Here is a video of me demonstrating this idea:
+[Software Demo Video](https://youtu.be/aFsq3w9Z1m0)
 
 # Development Environment
 * Visual Studio Code
